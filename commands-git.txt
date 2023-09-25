@@ -1,0 +1,5 @@
+wsl git clone url 
+wsl git push 
+wsl git pull <branche>
+wsl git push origin main 
+wsl git branch -m main
